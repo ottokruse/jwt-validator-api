@@ -2,3 +2,4 @@ node_modules/
 *.js
 *.js.map
 outputSamTemplate.yaml
+build_and_deploy.sh
